@@ -2,8 +2,6 @@
 
 By Rosangela Lima
 
-Video overview: (Normally there would be a URL here, but not for this sample assignment!)
-
 ## Scope
 
 The database for the Test Case Management System includes the main entities necessary to support the software testing process during a project's lifecycle. The database scope includes:
